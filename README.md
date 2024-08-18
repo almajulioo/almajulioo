@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm passionate about technology, especially in web
 ## 🔧 Technologies & Tools
 
 - 💻 **Languages:** JavaScript, Python, HTML, CSS
-- 🌐 **Frameworks:** React.js, Next.js, Node.js
-- 🛠️ **Tools:** Git, Docker, VS Code, Postman
-- ☁️ **Cloud Services:** AWS, Heroku
+- 🌐 **Frameworks:** React.js, Laravel, Django
+- 🛠️ **Tools:** Git, VS Code, Postman
+- ☁️ **Cloud Services:** Heroku
 
 ## 📈 GitHub Stats
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm passionate about technology, especially in web
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
 - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/)
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram/)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alma-julio/)
 - [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
 
 ## 📝 Blog Posts
