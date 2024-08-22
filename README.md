@@ -17,8 +17,8 @@ Welcome to my GitHub profile! I'm passionate about technology, especially in web
 
 ## 🚀 Projects
 
-- [**Project 1**](https://github.com/almajulioo/project-1) - A brief description of your project.
-- [**Project 2**](https://github.com/almajulioo/project-2) - A brief description of your project.
+- [**Laravel CMS**](https://github.com/almajulioo/laravelcms) - A Laravel Article Content Management System includes basics CRUD in laravel and user management.
+- [**Adagadai**](https://github.com/almajulioo/gogadai) - A basic html and css landing pages.
 - [**Project 3**](https://github.com/almajulioo/project-3) - A brief description of your project.
 
 ## 🌍 Connect with Me
