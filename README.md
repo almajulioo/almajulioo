@@ -17,9 +17,9 @@ Welcome to my GitHub profile! I'm passionate about technology, especially in web
 
 ## 🚀 Projects
 
-- [**Laravel CMS**](https://github.com/almajulioo/laravelcms) - A Laravel Article Content Management System includes basics CRUD in laravel and user management.
-- [**Adagadai**](https://github.com/almajulioo/gogadai) - A basic html and css landing pages.
-- [**Project 3**](https://github.com/almajulioo/project-3) - A brief description of your project.
+- [**Laravel CMS**](https://github.com/almajulioo/laravelcms) - A Laravel Article Content Management System includes basics CRUD and User Management.
+- [**Ada Gadai**](https://github.com/almajulioo/gogadai) - A basic html and css landing pages.
+- [**Yakui The Explorer**](https://github.com/almajulioo/Tubes-PBO) - A labyrinth game made with pygame library.
 
 ## 🌍 Connect with Me
 
