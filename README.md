@@ -6,35 +6,31 @@ Welcome to my GitHub profile! I'm passionate about technology, especially in web
 
 ## 🔧 Technologies & Tools
 
-- 💻 **Languages:** JavaScript, Python, HTML, CSS
-- 🌐 **Frameworks:** React.js, Laravel, Django
-- 🛠️ **Tools:** Git, VS Code, Postman
-- ☁️ **Cloud Services:** Heroku
+-   💻 **Languages:** JavaScript, Python, HTML, CSS, C++, GDScript
+-   🌐 **Frameworks:** React.js, Laravel, Django, Next Js
+-   🛠️ **Tools:** Git, VS Code, Postman
+-   ☁️ **Cloud Services:** Heroku
 
 ## 📈 GitHub Stats
 
 ![Alma Julio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almajulioo&show_icons=true&theme=radical)
 
-## 🚀 Projects
+## 🚀 Portfolio
 
-- [**Laravel CMS**](https://github.com/almajulioo/laravelcms) - A Laravel Article Content Management System includes basics CRUD and User Management.
-- [**Ada Gadai**](https://github.com/almajulioo/gogadai) - A basic html and css landing pages.
-- [**Yakui The Explorer**](https://github.com/almajulioo/Tubes-PBO) - A labyrinth game made with pygame library.
-- [**Portofolio**](https://github.com/almajulioo/porto-techno-belajartailwind) - A landing page using tailwind.
+[![Web](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://almajulioo.works)
 
 ## 🌍 Connect with Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alma-julio/)
-<!-- - [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/) -->
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alma_julio/)
-- [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://almajulioo.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alma-julio/)
 
-## 📝 Blog Posts
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alma_julio/)
+
+<!-- ## 📝 Blog Posts -->
 
 <!-- - [**How to Start with React**](https://your-blog-link.com)
 - [**Understanding Docker**](https://your-blog-link.com)
 - [**Best Practices for Git**](https://your-blog-link.com) -->
 
----
-
-Feel free to connect with me on social media or check out my blog posts! Happy coding! 😊
+<!-- --- -->
+<!--
+Feel free to connect with me on social media or check out my blog posts! Happy coding! 😊 -->
